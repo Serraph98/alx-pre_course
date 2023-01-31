@@ -1,1 +1,1 @@
-this is for project exercise
+still learning to understand git better
